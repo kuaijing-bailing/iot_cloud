@@ -1,5 +1,5 @@
 {
-    "name": "bailing\/be_component_iot_cloud",
+    "name": "bailing/iot_cloud",
     "type": "library",
     "license": "MIT",
     "keywords": [
